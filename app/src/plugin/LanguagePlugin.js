@@ -1,5 +1,5 @@
-import en from '../shared/menu/en.json';
-import vi from '../shared/menu/vi.json';
+import en from '../shared/lang/en.json';
+import vi from '../shared/lang/vi.json';
 
 const LanguageStore = {
   defaultLanguage: vi,

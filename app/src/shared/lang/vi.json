@@ -1,0 +1,123 @@
+{
+  "menu": [
+    {
+      "title": "Thủ tục/đơn từ",
+      "submenu": [
+        {
+          "title": "Xin tạm hoãn tiến độ một học kỳ để học lại",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=R1"
+        },
+        {
+          "title": "Hủy bỏ việc xin tạm hoãn",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RemoveApplication.aspx?code=R1"
+        },
+        {
+          "title": "Xin tạm nghỉ một học kỳ",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=R2"
+        },
+        {
+          "title": "Hủy bỏ việc xin tạm nghỉ",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RemoveApplication.aspx?code=R2"
+        },
+        {
+          "title": "Xin chuyển lớp, tạm ngừng môn học.",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/Courses.aspx"
+        },
+        {
+          "title": "Đăng ký môn học đi chậm kỳ",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R3"
+        },
+        {
+          "title": "Đăng ký học cải thiện điểm",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R4"
+        },
+        {
+          "title": "Đăng ký học lại",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R5"
+        },
+        {
+          "title": "Hủy đăng ký học",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/RegisteredCourses.aspx"
+        },
+        {
+          "title": "Xin gia hạn học phí",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=A1"
+        }
+      ]
+    },
+    {
+      "title": "Tra cứu thông tin",
+      "submenu": [
+        {
+          "title": "Lịch học",
+          "link": "http://fap.fpt.edu.vn/Course/Courses.aspx"
+        },
+        {
+          "title": "Biểu học phí",
+          "link": "http://fap.fpt.edu.vn/FrontOffice/SubjectFees.aspx"
+        },
+        {
+          "title": "Thời khóa biểu từng tuần",
+          "link": "http://fap.fpt.edu.vn/Report/ScheduleOfWeek.aspx"
+        },
+        {
+          "title": "Xem thời khóa biểu của một lớp",
+          "link": "http://fap.fpt.edu.vn/Schedule/TimeTable.aspx"
+        }
+      ]
+    },
+    {
+      "title": "Ý kiến",
+      "submenu":[
+        {
+          "title": "Ý kiến về việc giảng dậy",
+          "link": "http://fap.fpt.edu.vn/Feedback/StudentFeedBack.aspx"
+        }
+      ]
+    },
+    {
+      "title": "Báo cáo",
+      "submenu": [
+        {
+          "title": "Báo cáo điểm danh",
+          "link": "http://fap.fpt.edu.vn/Report/ViewAttendstudent.aspx"
+        },
+        {
+          "title": "Báo cáo điểm",
+          "link": "http://fap.fpt.edu.vn/Grade/StudentGrade.aspx"
+        }
+      ]
+    },
+    {
+      "title": "Khác",
+      "submenu": [
+        {
+          "title": "Xem thông tin về học kỳ, phòng",
+          "link": "http://fap.fpt.edu.vn/Campus/Rooms.aspx"
+        }
+      ]
+    }
+  ],
+  "readmore": {
+    "title": "Đọc thêm",
+    "link": "http://fap.fpt.edu.vn/CmsFAP/PlusNews.aspx"
+  },
+  "footer": {
+    "news": {
+      "title": "Bản tin sinh viên",
+      "link": "http://fap.fpt.edu.vn/CmsFAP/PlusNews.aspx"
+    },
+    "home": {
+      "title": "Trang chủ ĐH FPT",
+      "link": "http://www.fpt.edu.vn/"
+    },
+    "changepass": {
+      "title": "Đổi mật khẩu Email FPT",
+      "link": "https://www.google.com/accounts/b/0/EditPasswd"
+    },
+    "email": {
+      "title": "Email",
+      "link": "http://mail.fpt.edu.vn/"
+    }
+  }
+}

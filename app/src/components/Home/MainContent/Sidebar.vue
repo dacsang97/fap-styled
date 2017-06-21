@@ -43,7 +43,7 @@ export default {
   },
   computed: {
     language() {
-      return this.$langStore.defaultLanguage;
+      return this.$langStore.defaultLanguage.menu;
     },
   },
 };
