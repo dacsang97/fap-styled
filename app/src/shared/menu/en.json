@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Registration/Application",
+    "submenu": [
+      {
+        "title": "Suspend one semester to take repeated course",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=R1"
+      },
+      {
+        "title": "Cancel",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RemoveApplication.aspx?code=R1"
+      },
+      {
+        "title": "Suspend one semester",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=R2"
+      },
+      {
+        "title": "Cancel",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RemoveApplication.aspx?code=R2"
+      },
+      {
+        "title": "Move out class, suspend subject",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/Courses.aspx"
+      },
+      {
+        "title": "Register extra courses",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R3"
+      },
+      {
+        "title": "Register to improve mark",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R4"
+      },
+      {
+        "title": "Register repeated course",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RegisterCourse.aspx?code=R5"
+      },
+      {
+        "title": "Cancel registration",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/RegisteredCourses.aspx"
+      },
+      {
+        "title": "Extend tuition fee",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/AddApplication.aspx?code=A1"
+      }
+    ]
+  },
+  {
+    "title": "Information Access",
+    "submenu": [
+      {
+        "title": "University timetable",
+        "link": "http://fap.fpt.edu.vn/Course/Courses.aspx"
+      },
+      {
+        "title": "Tuition fee per course",
+        "link": "http://fap.fpt.edu.vn/FrontOffice/SubjectFees.aspx"
+      },
+      {
+        "title": "Weekly timetable",
+        "link": "http://fap.fpt.edu.vn/Report/ScheduleOfWeek.aspx"
+      },
+      {
+        "title": "Class timetable",
+        "link": "http://fap.fpt.edu.vn/Schedule/TimeTable.aspx"
+      }
+    ]
+  },
+  {
+    "title": "Feedback",
+    "submenu":[
+      {
+        "title": "Feedback about teaching",
+        "link": "http://fap.fpt.edu.vn/Feedback/StudentFeedBack.aspx"
+      }
+    ]
+  },
+  {
+    "title": "Reports",
+    "submenu": [
+      {
+        "title": "Attendance report",
+        "link": "http://fap.fpt.edu.vn/Report/ViewAttendstudent.aspx"
+      },
+      {
+        "title": "Mark Report",
+        "link": "http://fap.fpt.edu.vn/Grade/StudentGrade.aspx"
+      }
+    ]
+  },
+  {
+    "title": "Others",
+    "submenu": [
+      {
+        "title": "View semester, room",
+        "link": "http://fap.fpt.edu.vn/Campus/Rooms.aspx"
+      }
+    ]
+  }
+]

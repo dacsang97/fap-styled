@@ -28,7 +28,8 @@
       ],
       "js": [
         "scripts/jquery.min.js",
-        "scripts/contentscript.js"
+        "scripts/contentscript.js",
+        "scripts/home.js"
       ],
       "css": [
         "styles/bootstrap.min.css",
@@ -43,10 +44,9 @@
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "FapStyled",
-    "default_popup": "popup.html"
+    "default_title": "FapStyled"
   },
   "web_accessible_resources": [
-    "images/icon-48.png"
+    "images/icon-38.png"
   ]
 }

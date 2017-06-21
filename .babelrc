@@ -1,3 +1,18 @@
 {
-  "presets": ["es2015"]
+  "presets": [
+    ["env", { "modules": false }],
+    "stage-2",
+    "es2015"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-export-extensions"
+  ],
+  "comments": false,
+  "env": {
+    "test": {
+      "presets": ["env", "stage-2"],
+      "plugins": [ "istanbul" ]
+    }
+  }
 }

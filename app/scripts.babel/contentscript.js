@@ -47,11 +47,22 @@ if ($('#ctl00_divUser').text()) {
   $('.box').wrapAll('<div class="row content"></div>');
   var rowBox = $('.row.content');
   rowBox.children().each(function(i,box){
-    console.log(box);
     rowBox.prepend(box)
   })
   $('ul').addClass('list-group');
   $('ul > li').addClass('list-group-item');
+
+  $('.container').prepend('<div id="app"></div>')
+
+  var news = [];
+  $('#ctl00_mainContent_ucCmsNews1_divCMS > ul').children().each(function(i, li) {
+    var item = {};
+    $(li).children().each(function(id, content) {
+      item.id = $(content).text();
+    })
+    news.push(JSON.stringify(item));
+  })
+  localStorage.setItem('news', news);
   console.log('ekko')
 } else {
   
